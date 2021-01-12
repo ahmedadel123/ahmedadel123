@@ -1,9 +1,8 @@
 ### Hola I'm Ahmed Adel! 👋
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Flutter and Android
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning  more about web development
+- 👯 I’m looking to collaborate on start up
 - 💬 Ask me about Flutter or Android
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
@@ -17,3 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+
+
